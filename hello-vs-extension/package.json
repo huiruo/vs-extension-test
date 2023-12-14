@@ -16,6 +16,14 @@
       {
         "command": "hello-vs-extension.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "helloworld.alarmClock",
+        "title": "alarmClock"
+      },
+      {
+        "command": "helloworld.alarmClock-shutdown",
+        "title": "alarmClock shut down"
       }
     ]
   },
